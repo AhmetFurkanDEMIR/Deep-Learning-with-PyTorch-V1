@@ -6,4 +6,8 @@
 
 * Başlamadan önce ders1.py adlı python dosyasındaki basit tensör işlemlerine göz atmanızı öneririm.
 
-# Tamamen Bağlı Katmanlar Ve İkili Sınıflandırma
+* Bu projemizde PyTorch kütüphanesini kullanarak ikili sınıflandırma problemini(Kedi, Balık) çözeceğiz.
+
+# Veri Ön İşleme(Verileri Vektör Haline Getirme)
+
+
