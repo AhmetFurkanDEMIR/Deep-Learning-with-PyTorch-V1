@@ -19,3 +19,9 @@
 * Üç katlı tamamen bağlı katmanlar ve aktivasyon fonksiyonları.
 
 ![Screenshot_2020-04-18_19-56-19](https://user-images.githubusercontent.com/54184905/79644005-ce150c80-81ae-11ea-885e-baca99a36141.png)
+
+# Modeli Gpu veya Cpu üzerinden eğitmek ve Optimizer(En iyileme fonksiyonu)
+
+![Screenshot_2020-04-18_20-03-37](https://user-images.githubusercontent.com/54184905/79644175-d4f04f00-81af-11ea-86e9-c2bf0c4dfbd9.png)
+
+
