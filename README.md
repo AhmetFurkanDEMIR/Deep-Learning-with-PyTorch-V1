@@ -24,7 +24,8 @@
 
 ![Screenshot_2020-04-18_20-03-37](https://user-images.githubusercontent.com/54184905/79644175-d4f04f00-81af-11ea-86e9-c2bf0c4dfbd9.png)
 
-# Modeli Eğitmek
+# Modeli Eğitmek İçin Gerekli Fonksiyon
 
+![Screenshot_2020-04-18_20-11-56](https://user-images.githubusercontent.com/54184905/79644336-f998f680-81b0-11ea-9e99-92aade1d2ca9.png)
 
 
