@@ -6,4 +6,4 @@
 
 * Başlamadan önce ders1.py adlı python dosyasındaki basit tensör işlemlerine göz atmanızı öneririm.
 
-# Tamamen Bağlı Katmanlar Ve İkili Sıflandırma
+# Tamamen Bağlı Katmanlar Ve İkili Sınıflandırma
