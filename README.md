@@ -45,3 +45,8 @@
 ![Screenshot_2020-04-18_18-07-50](https://user-images.githubusercontent.com/54184905/79644448-bee38e00-81b1-11ea-9adf-f655f28be722.png)
 
 ![Screenshot_2020-04-18_18-32-20](https://user-images.githubusercontent.com/54184905/79644450-bf7c2480-81b1-11ea-9106-333e5f3537da.png)
+
+# Bu Serinin Devamı 
+
+* PyTorch ile yazdığım örneklerin devamı gelecektir.
+* Örnekleri V2, V3, V4 adında paylaşacağım.
