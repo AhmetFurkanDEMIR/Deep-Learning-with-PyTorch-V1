@@ -35,3 +35,13 @@
 # Modeli Test Etmek
 
 ![Screenshot_2020-04-18_20-16-02](https://user-images.githubusercontent.com/54184905/79644411-8348c400-81b1-11ea-9533-b5b80d82d414.png)
+
+# Test Ve Sonuçları
+
+![Screenshot_2020-04-18_18-52-41](https://user-images.githubusercontent.com/54184905/79644452-c60a9c00-81b1-11ea-81aa-06205791af2c.png)
+
+![Screenshot_2020-04-18_17-50-04](https://user-images.githubusercontent.com/54184905/79644447-be4af780-81b1-11ea-99eb-c9d75a8d761e.png)
+
+![Screenshot_2020-04-18_18-07-50](https://user-images.githubusercontent.com/54184905/79644448-bee38e00-81b1-11ea-9adf-f655f28be722.png)
+
+![Screenshot_2020-04-18_18-32-20](https://user-images.githubusercontent.com/54184905/79644450-bf7c2480-81b1-11ea-9106-333e5f3537da.png)
