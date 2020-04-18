@@ -29,3 +29,5 @@
 ![Screenshot_2020-04-18_20-11-56](https://user-images.githubusercontent.com/54184905/79644336-f998f680-81b0-11ea-9e99-92aade1d2ca9.png)
 
 # Modeli Eğitmek Ve Kaydetmek
+
+![Screenshot_2020-04-18_20-13-48](https://user-images.githubusercontent.com/54184905/79644377-41b81900-81b1-11ea-8941-6a1c7e3bef66.png)
