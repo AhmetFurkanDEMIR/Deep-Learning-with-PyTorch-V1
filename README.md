@@ -28,4 +28,4 @@
 
 ![Screenshot_2020-04-18_20-11-56](https://user-images.githubusercontent.com/54184905/79644336-f998f680-81b0-11ea-9e99-92aade1d2ca9.png)
 
-
+# Modeli Eğitmek Ve Kaydetmek
