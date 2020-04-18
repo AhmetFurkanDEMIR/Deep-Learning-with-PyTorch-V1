@@ -10,4 +10,7 @@
 
 # Veri Ön İşleme(Verileri Vektör Haline Getirme)
 
+* Bu bölümde resimlerimizi modele vermeden önce bir takım işlemlerden geçiriyoruz.
+
+![Screenshot_2020-04-18_19-40-36](https://user-images.githubusercontent.com/54184905/79643780-38c54880-81ad-11ea-91b5-b5c77e469db3.png)
 
