@@ -26,5 +26,5 @@
 
 # Modeli Eğitmek
 
-![Screenshot_2020-04-18_20-09-08](https://user-images.githubusercontent.com/54184905/79644276-91e2ab80-81b0-11ea-8a03-8ec37700775c.png)
+
 
