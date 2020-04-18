@@ -14,3 +14,6 @@
 
 ![Screenshot_2020-04-18_19-40-36](https://user-images.githubusercontent.com/54184905/79643780-38c54880-81ad-11ea-91b5-b5c77e469db3.png)
 
+# Model Ve Katmanlar
+
+![Screenshot_2020-04-18_19-56-19](https://user-images.githubusercontent.com/54184905/79644005-ce150c80-81ae-11ea-885e-baca99a36141.png)
