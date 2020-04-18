@@ -16,4 +16,6 @@
 
 # Model Ve Katmanlar
 
+* Üç katlı tamamen bağlı katmanlar ve aktivasyon fonksiyonları.
+
 ![Screenshot_2020-04-18_19-56-19](https://user-images.githubusercontent.com/54184905/79644005-ce150c80-81ae-11ea-885e-baca99a36141.png)
