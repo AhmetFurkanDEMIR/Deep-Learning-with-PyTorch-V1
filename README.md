@@ -54,3 +54,5 @@
 * PyTorch ile yazdığım örneklerin devamı gelecektir.
 * Örnekleri V2, V3, V4 ... adında paylaşacağım.
 * Sonraki örneklerde daha gelişmiş modeller ile farklı problemler çözeceğiz.
+
+Kaynak : https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications/dp/1492045357
